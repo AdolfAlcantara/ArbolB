@@ -1,0 +1,3 @@
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/cmake-build-debug/CMakeFiles/ArbolB.dir
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

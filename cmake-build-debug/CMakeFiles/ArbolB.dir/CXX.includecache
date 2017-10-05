@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/ArbolB.cpp
+iostream
+-
+ArbolB.h
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/ArbolB.h
+
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/ArbolB.h
+BloqueArbolB.h
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/BloqueArbolB.h
+
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/BloqueArbolB.cpp
+BloqueArbolB.h
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/BloqueArbolB.h
+
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/BloqueArbolB.h
+vector
+-
+
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/main.cpp
+iostream
+-
+ArbolB.h
+C:/Users/Chronos-Laptop/Documents/ED2/ArbolB/ArbolB.h
+
